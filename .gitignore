@@ -1,0 +1,8 @@
+# OS-generated files
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+# Local backups / obsolete PHP hosting files
+*.php.bak
+ver.php
